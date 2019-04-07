@@ -15,5 +15,5 @@
   fastboot reboot
   ```
   
-  this will work with magisk 7.1.1,
+  this will work with Magisk Manager 7.1.1,
   to download it,visit [Latest Magisk Manager.apk](https://github.com/topjohnwu/Magisk/releases)
